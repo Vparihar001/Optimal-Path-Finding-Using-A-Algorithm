@@ -1,1 +1,1 @@
-# Optimal-Path-Finding-Using-A-Algorithm
+# Optimal-Path-Finding-Using-A-Star Algorithm
